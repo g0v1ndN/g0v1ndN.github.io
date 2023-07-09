@@ -1,10 +1,10 @@
 # g0v1ndN.github.io
 <div align="left">
    <a href="https://opensource.org/osd">
-      <img src="https://github.com/Govind-S-Nair/AssetVault/blob/main/Badges/open-source.svg" alt="open-source"/>
+      <img src="https://github.com/g0v1ndN/AssetVault/blob/main/Badges/open-source.svg" alt="open-source"/>
    </a>
    <a href="https://opensource.org/license/mit/">
-      <img src="https://github.com/Govind-S-Nair/AssetVault/blob/main/Badges/License-MIT-green.svg" alt="mit-license"/>
+      <img src="https://github.com/g0v1ndN/AssetVault/blob/main/Badges/License-MIT-green.svg" alt="mit-license"/>
    </a>
    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
       <img src="https://img.shields.io/badge/HTML-%23E44D26" alt="HTML"/>
