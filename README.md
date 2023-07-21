@@ -3,7 +3,7 @@
    <a href="https://opensource.org/osd">
       <img src="https://github.com/g0v1ndN/AssetVault/blob/main/Badges/open-source.svg" alt="open-source"/>
    </a>
-   <a href="https://opensource.org/license/mit/">
+   <a href="https://img.shields.io/badge/License-MIT-green">
       <img src="https://github.com/g0v1ndN/AssetVault/blob/main/Badges/License-MIT-green.svg" alt="mit-license"/>
    </a>
    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
