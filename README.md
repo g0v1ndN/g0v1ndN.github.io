@@ -23,17 +23,15 @@ Welcome to my resume webpage! I'm Govind S Nair, a passionate coder with experti
 <p><b>Note:</b> This project is currently a work in progress and may not be fully functional or complete. It is being actively developed to add additional features and improve existing functionality.</p>
 
 ## Features:
-1. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-2. Nam vestibulum mauris vel dolor dignissim, quis pellentesque lacus commodo.
-3. Nullam imperdiet lacus eget hendrerit hendrerit.
-4. Ut ac quam et elit scelerisque mattis.
-5. Maecenas ornare nisl at nibh porta, cursus pellentesque nulla vulputate.
-6. Cras sagittis lacus ornare odio accumsan, a luctus nisi rhoncus.
-7. Mauris luctus enim varius pharetra pretium.
-8. Fusce dapibus leo ac justo ultricies euismod.
-9. Nam vel tellus vel mauris sollicitudin auctor quis vel ex.
-
-<p><b>Note:</b> The features listed above are currently placeholders and will be updated upon project completion. Please refer to the final version of this README for a comprehensive description of the project's features and functionalities.</p>
+1. The use of CSS media queries allows a responsive layout for both desktop and mobile devices.
+2. CSS custom properties (variables) are used to define colors, font sizes, font weights, and other styles.
+3. The resume includes styles for a dark theme, enabling users to switch between light and dark modes easily.
+4. The navigation menu collapses into a mobile-friendly version on smaller screens.
+5. A scroll-to-top button that appears when the user scrolls down the page.
+6. The CSS defines custom font styles using Google Fonts.
+7. The CSS incorporates icon fonts or SVG icons for various elements like social media links, interests, skills, and more.
+8. The resume includes detailed sections for education, work experience, skills, languages, and interests.
+9. The webpage includes a "Generate PDF" button that enables users to download the resume as a PDF file.
 
 ## Usage Instructions:
 
