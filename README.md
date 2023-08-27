@@ -51,10 +51,10 @@ Welcome to my resume webpage! I'm Govind S Nair, a passionate coder with experti
 
 ## Screenshots:
 <p align="center"><b>Light Mode</b></p>
-<img src="https://github.com/g0v1ndN/g0v1ndN.github.io/blob/main/Screenshots/LightMode.png" alt="light_mode"/>
+<img src="https://github.com/g0v1ndN/g0v1ndN.github.io/blob/main/Screenshots/new_light_mode.png" alt="light_mode"/>
 <hr>
 <p align="center"><b>Dark Mode</b></p>
-<img src="https://github.com/g0v1ndN/g0v1ndN.github.io/blob/main/Screenshots/DarkMode.png" alt="dark_mode"/>
+<img src="https://github.com/g0v1ndN/g0v1ndN.github.io/blob/main/Screenshots/new_dark_mode.png" alt="dark_mode"/>
 
 ## External Resources:
 
