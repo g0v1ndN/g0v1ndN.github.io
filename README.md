@@ -41,7 +41,7 @@ Welcome to my resume webpage! I'm Govind S Nair, a passionate coder with experti
 <p align="center"><b> OR </b></p>
 
 1. Open your terminal or command prompt and navigate to the directory where you want to clone the repository.
-2. Run the command `https://github.com/g0v1ndN/g0v1ndN.github.io` to clone the repository to your local machine.
+2. Run the command `git clone https://github.com/g0v1ndN/g0v1ndN.github.io` to clone the repository to your local machine.
 <p><b>Note:</b> You need to have Git installed on your computer. If you don't have it installed, please download and install Git from the official website (https://git-scm.com).</p>
 
 ### Opening the HTML File in a Web Browser:
