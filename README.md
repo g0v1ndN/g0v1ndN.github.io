@@ -74,5 +74,6 @@ This project utilizes code from an external source, which is licensed under the 
 The MIT License is a permissive open-source license that allows you to use, modify, and distribute the code as long as you include the original copyright notice and disclaimer. 
 The full text of the MIT License can be found in the <a href="https://github.com/eKoopmans/html2pdf.js/blob/master/LICENSE">LICENSE</a> file provided by the external source.
 
-## MIT License: 
-Hello! If you're interested in using my code, I'm happy to share it with you under the <a href="https://github.com/g0v1ndN/g0v1ndN.github.io/blob/main/LICENSE">MIT License</a>. This license is fairly permissive, which means that you can use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of my code without restriction, as long as you include the original copyright notice and disclaimer in your own code. Additionally, I provide no warranties or guarantees for my code, so you use it at your own risk. I hope this helps, and happy coding!
+## License: 
+This project is licensed under the terms & conditions (T&Cs) of the MIT license. If you're interested in reading more about it, please take a look at the <a href="https://github.com/g0v1ndN/g0v1ndN.github.io/blob/main/LICENSE">LICENSE</a> document.
+
