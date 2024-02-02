@@ -18,7 +18,7 @@
 </div>
 
 ## About: 
-Welcome to my resume webpage! I'm Govind S Nair, a passionate coder with expertise in web development, data science, and more. This webpage was created by following a YouTube <a href="https://www.youtube.com/watch?v=oYjseP_Qhv4">video tutorial</a> by Bedimcode. It contains details on my education, experience, and certifications. I've also added links to my social profiles and mentioned contact details for easy reach. This page has been hosted using GitHub Pages, and you can find the link in the repository description.
+Welcome to my resume webpage! I'm Govind S Nair, a passionate coder with expertise in web development, data science, and more. This webpage contains details on my education, experience, and certifications. I've also added links to my social profiles and mentioned contact details for easy reach. This page has been hosted using GitHub Pages, and you can find the link in the repository description.
 
 ## Features:
 1. The use of CSS media queries allows a responsive layout for both desktop and mobile devices.
