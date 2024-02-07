@@ -76,4 +76,3 @@ The full text of the MIT License can be found in the <a href="https://github.com
 
 ## License: 
 This project is licensed under the terms & conditions (T&Cs) of the MIT license. If you're interested in reading more about it, please take a look at the <a href="https://github.com/g0v1ndN/g0v1ndN.github.io/blob/main/LICENSE">LICENSE</a> document.
-
